@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31949'
     url: http://www.gutenberg.org/2009/agents/31949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26365#Intestinal-Ills--13-Chronic-Constipation-Indigestion-Autogenetic-Poisons-Diarrhea-Piles-Etc.-_
 gutenberg_issued: '2008-08-19'
 gutenberg_type: Text
 identifiers:
