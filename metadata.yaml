@@ -1,0 +1,31 @@
+_repo: Intestinal-Ills--13-Chronic-Constipation-Indigestion-Autogenetic-Poisons-Diarrhea-Piles-Etc.-__26365
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jamison, Alcinous B. (Alcinous Burton)
+    alias: Jamison, Alcinous Burton
+    birthdate: 1851
+    gutenberg_agent_id: '31949'
+    url: http://www.gutenberg.org/2009/agents/31949
+description: ''
+gutenberg_issued: '2008-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Intestines -- Diseases'
+- !lcc 'RC'
+- !lcsh 'Gastroenterology'
+- !lcsh 'Constipation'
+- !lcsh 'Rectum -- Diseases'
+title: "Intestinal Ills\r\nChronic Constipation, Indigestion, Autogenetic Poisons,\
+  \ Diarrhea, Piles, Etc. Also Auto-Infection, Auto-Intoxication, Anemia, Emaciation,\
+  \ Etc. Due to Proctitis and Colitis"
+url: http://www.gutenberg.org/ebooks/26365
